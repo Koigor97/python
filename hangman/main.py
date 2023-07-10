@@ -1,5 +1,6 @@
 from assets import list_of_words, title, the_gallows
 import random
+import os
 
 banner = title
 hidden_word = random.choice(list_of_words).lower()
@@ -14,6 +15,7 @@ for n in range(len(hidden_word)):
     word_in_char.append("_")
 
 while not is_there_underscore:
+    os.system('clear')
     print(f"\nThe secret word is: {''.join(word_in_char)} 🤷🏽‍\n{the_gallows[chances_to_live]}")
     user_guess = input("Guess the letters of the secret word 🤭: ").lower()
 
