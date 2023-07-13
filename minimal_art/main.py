@@ -70,7 +70,7 @@ for i in range(3, 20):
         tommy.color(generate_color())
         tommy.setheading(random.choice(angles))
         ###############################
-        tammy.color(generate_color())
+        # tammy.color(generate_color())
         tammy.setheading(tammy.heading() + round(360 / i))
 
 
