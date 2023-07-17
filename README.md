@@ -9,11 +9,11 @@ ___
 ##### List of Projects and their difficulty level
 |      Project      | Difficulty Level | Completed |
 |:-----------------:|:----------------:|:---------:|
-|   Hangman🧍🏽‍    |     Beginner     |   - [x]   |
-|  Minimal Art 🎨   |   Intermediate   |   - [x]   |
-|    Quizzler ❓     |   Intermediate   |   - [x]   |
-| Run Turtle Run 🐢 |   Intermediate   |   - [x]   |
-|   Snake Game 🐍   |   Intermediate   |   - [x]   |
+|   Hangman🧍🏽‍    |     Beginner     |     ✅     |
+|  Minimal Art 🎨   |   Intermediate   |     ✅     |
+|    Quizzler ❓     |   Intermediate   |     ✅     |
+| Run Turtle Run 🐢 |   Intermediate   |     ✅     |
+|   Snake Game 🐍   |   Intermediate   |     ✅     |
 |                   |                  |           |
 
 ___
