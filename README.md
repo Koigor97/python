@@ -5,8 +5,8 @@ It holds in it folders of different projects throughout my learning journey.
 The code for the different projects is open to anyone who wants to modify it or add new logic to it.
 Just let me know and I will add you to the repository.
 
-```Note:``` The projects and the learning journey comes from Angela Yu's best-selling **```<span style="color: gold; font-weight: bold">100 
-Days of Code: The Complete Python Pro BootCamp</span>```** on Udemy.
+```Note:``` The projects and the learning journey comes from Angela Yu's best-selling **```100 
+Days of Code: The Complete Python Pro BootCamp```** on Udemy.
 I 💯 recommend to anyone who is serious about mastering Python.
 Every day you build a project, for 100 Days, learning the ins and out of the language.
 These are just a handful of projects.
