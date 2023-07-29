@@ -27,7 +27,7 @@ This solidifies my understanding of:
 * If, elif, and else statement.
 * for loop and while loop
 * and Boolean
-
+___
 ## Minimal Art 🎨
 This was another fun project for me because I got to use the turtle module
 to create beautiful art. Documentation reading was the main goal with this project.
@@ -37,10 +37,22 @@ Anyway, the project code is free to customize to your liking and create beautifu
 minimalistic art like this:  
 ![Screenshot of image](minimal_art/minimal_art.png)  
 You can even modify the code to take an ImageGrab anytime you run the code.
-
+___
 ## Quizzler ❓
 The Quizzler game is an introduction to **OOP - Object-Oriented Programming**.
 It focuses on the concept of OOP and the benefits of OOP. How to create a class,
 how to create Attributes and Methods, and how attributes and methods are a fancy 
 way of saying Variables and Functions. Also, how to initialize and create Objects with 
 the Class blueprint.
+___
+## Run Turtle Run 🐢
+The Run Turtle Run game is a simple game created to deepen my understanding of the Turtle
+module.
+It takes a bet on which turtle would by the color, and the turtles move from the left 
+side of the screen to the right.
+![screenshot of the turtle game](images/turtle.webp)
+___
+## Snake Game 🐍
+The classic snake game solidifies everything learned about OOP and the Turtle module. It was a tough one
+ that tests your understanding of how to structure your code, and test your logic.
+![screenshot of the snake game](images/snake.webp)
