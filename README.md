@@ -12,12 +12,7 @@ Every day you build a project, for 100 Days, learning the ins and out of the lan
 These are just a handful of projects.
 She pushes you gently by taking off the training wheels and lets you test your understanding and 
 knowledge of the language, thinking like a programmer all the way.
-
-<mark>July 31, 2023: I'll no longer be pushing projects on GitHub.
-The reason why is that I've reached a level in my Python journey where I am working with APIs,
-WebScraping, Web Development with Flask, etc. It mostly has to do with my API keys.
-I could create a environmental variable on github but honestly I don't want to 😃.
-Wish me luck as I continue my journey 🫡</mark>
+I will not be pushing all the projects on GitHub, only a handful. 
 ___
 
 ##### List of Projects and their difficulty level
