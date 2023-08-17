@@ -1,29 +1,35 @@
-# Python <img alt="Python logo" height="40" src="images/python_logo.svg.png" width="40"/>
+# Python <img alt="Python logo" height="40" src="images/python.webp" width="40"/>
 
 The python repo represents the knowledge and understanding of the programming language. 
 It holds in it folders of different projects throughout my learning journey.
 The code for the different projects is open to anyone who wants to modify it or add new logic to it.
 Just let me know and I will add you to the repository.
 
-```Note:``` The projects and the learning journey comes from Angela Yu's best-selling **```100 
+> [!Note]   
+> The projects and the learning journey comes from Angela Yu's best-selling **```100 
 Days of Code: The Complete Python Pro BootCamp```** on Udemy.
 I 💯 recommend to anyone who is serious about mastering Python.
 Every day you build a project, for 100 Days, learning the ins and out of the language.
 These are just a handful of projects.
 She pushes you gently by taking off the training wheels and lets you test your understanding and 
 knowledge of the language, thinking like a programmer all the way.
-I will not be pushing all the projects on GitHub, only a handful. 
+I will not be pushing all the projects on GitHub, only a handful.   
+> Some project named in the list below may not be discussed below like the others,
+> nor would a screenshot of the project be uploaded.
+> However, you check out the project folder above 👆🏽
+
 ___
 
 ##### List of Projects and their difficulty level
-|      Project      | Difficulty Level | Completed |
-|:-----------------:|:----------------:|:---------:|
-|   Hangman🧍🏽‍    |     Beginner     |     ✅     |
-|  Minimal Art 🎨   |   Intermediate   |     ✅     |
-|    Quizzler ❓     |   Intermediate   |     ✅     |
-| Run Turtle Run 🐢 |   Intermediate   |     ✅     |
-|   Snake Game 🐍   |   Intermediate   |     ✅     |
-|                   |                  |           |
+|       Project       | Difficulty Level | Completed |
+|:-------------------:|:----------------:|:---------:|
+|    Hangman🧍🏽‍     |     Beginner     |     ✅     |
+|   Minimal Art 🎨    |   Intermediate   |     ✅     |
+|     Quizzler ❓      |   Intermediate   |     ✅     |
+|  Run Turtle Run 🐢  |   Intermediate   |     ✅     |
+|    Snake Game 🐍    |   Intermediate   |     ✅     |
+|     Pomodoro ⏱️     |   Intermediate   |     ✅     | 
+ | Password Manager 🔐 |   Intermediate   |     ✅     |
 
 ___
 
@@ -65,3 +71,13 @@ ___
 The classic snake game solidifies everything learned about OOP and the Turtle module. It was a tough one
  that tests your understanding of how to structure your code, and test your logic.
 ![screenshot of the snake game](images/snake.webp)
+___
+
+## Password Manager 🔐
+The Password manager app is a very useful project and one I was happy to build.
+I am bad at recollecting password and user login for application that I don't use 
+frequently, so the application would save me a lot of "***I have forgotten password***"
+scenarios 😀.
+I only need to run the program anytime I want to save a password.
+
+![Password Manager image](images/password_manager.webp)
