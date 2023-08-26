@@ -96,4 +96,6 @@ ___
 Spotify playlist explores the webscraping using Beautiful Soup. It involves a lot
 of documentation on how to achieve your desired goal. Beautiful Soup documentation is 
 well documented and easy to get going. The project involves scraping the Billboard Hot 100
-for a specific year, getting the song data, and creating Spotify playlist using the Spotipy API.
+for a specific year, getting the song data, and creating Spotify playlist using the Spotipy API.  
+
+![spotify dashboard screenshot](images/spotify.webp)
