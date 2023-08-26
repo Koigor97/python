@@ -33,7 +33,7 @@ ___
 
 ___
 
-## Hangman 🧍🏽‍♂️
+## Hangman 🧍🏽‍♂️ ( terminal )
 The hangman project was a beginner level game to test basics.
 I had fun because it required me to start thinking like a programmer.
 I used ascii art to make it a bit nice (The Ascii is used for the title).
@@ -43,7 +43,7 @@ This solidifies my understanding of:
 * for loop and while loop
 * and Boolean
 ___
-## Minimal Art 🎨
+## Minimal Art 🎨 ( turtle )
 This was another fun project for me because I got to use the turtle module
 to create beautiful art. Documentation reading was the main goal with this project.
 As a programmer, you must be able to read documentation because in most cases 
@@ -53,27 +53,27 @@ minimalistic art like this:
 ![Screenshot of image](minimal_art/minimal_art.png)  
 You can even modify the code to take an ImageGrab anytime you run the code.
 ___
-## Quizzler ❓
+## Quizzler ❓ ( terminal )
 The Quizzler game is an introduction to **OOP - Object-Oriented Programming**.
 It focuses on the concept of OOP and the benefits of OOP. How to create a class,
 how to create Attributes and Methods, and how attributes and methods are a fancy 
 way of saying Variables and Functions. Also, how to initialize and create Objects with 
 the Class blueprint.
 ___
-## Run Turtle Run 🐢
+## Run Turtle Run 🐢 ( turtle )
 The Run Turtle Run game is a simple game created to deepen my understanding of the Turtle
 module.
 It takes a bet on which turtle would by the color, and the turtles move from the left 
 side of the screen to the right.
 ![screenshot of the turtle game](images/turtle.webp)
 ___
-## Snake Game 🐍
+## Snake Game 🐍 ( turtle )
 The classic snake game solidifies everything learned about OOP and the Turtle module. It was a tough one
  that tests your understanding of how to structure your code, and test your logic.
 ![screenshot of the snake game](images/snake.webp)
 ___
 
-## Password Manager 🔐
+## Password Manager 🔐 ( tkinter )
 The Password manager app is a very useful project and one I was happy to build.
 I am bad at recollecting password and user login for application that I don't use 
 frequently, so the application would save me a lot of "***I have forgotten password***"
@@ -81,3 +81,19 @@ scenarios 😀.
 I only need to run the program anytime I want to save a password.
 
 ![Password Manager image](images/password_manager.webp)
+___
+
+## Spotify Playlist ( webscraping - Beautiful Soup)
+>[!NOTE]  
+> The idea of scraping a website, looking for data and all sort of goodies is cool, but, there are
+> set rules we must follow in other not to abuse it. There are laws to what is legal and not legal 
+> in webscraping.  
+> * You can't commercialize copyrighted content on your website.
+> * You can't scrap data that's behind authentication (like Facebook, Instagram, etc.).
+> * If there's a public API use it instead (ethics).
+> * Respect the website owner. Put a "/robots.txt" after the url to know what you are not allowed to do. (ethics)
+
+Spotify playlist explores the webscraping using Beautiful Soup. It involves a lot
+of documentation on how to achieve your desired goal. Beautiful Soup documentation is 
+well documented and easy to get going. The project involves scraping the Billboard Hot 100
+for a specific year, getting the song data, and creating Spotify playlist using the Spotipy API.
