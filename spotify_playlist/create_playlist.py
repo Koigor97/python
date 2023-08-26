@@ -50,6 +50,7 @@ class CreatePlaylist:
 
     def search_for_songs(self):
         song_uris = []
+
         year = self.__get_user_input().split("-")[0]
         for song in self.__get_user_song_list():
             result = self.__sp.search(q=f"track:{song} year:{year}", type="track")
