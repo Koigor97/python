@@ -101,7 +101,3 @@ for a specific year, getting the song data, and creating Spotify playlist using 
 ![spotify dashboard screenshot](images/spotify.webp)
 ___
 
-## Cookie Clicker 🍪 (selenium)
-The Cookie clicker project, is a more advanced and mostly used by programmers to scrap website.
-Unlike BeautifulSoup, selenium give your code the ability to interact with the website, click a button,
-type in the search bar, etc. All without you interacting with the website yourself.
