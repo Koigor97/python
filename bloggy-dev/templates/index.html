@@ -14,15 +14,17 @@
 
 <body>
     <header>
-        <h1>Hello World</h1>
+        <h1>Bloggy</h1>
     </header>
 
     <main>
-        <div class="response">
-            <h3>Hey {{user}}</h3>
-            <p>I think you are {{gender}}</p>
-            <p>And maybe {{age}} year of age 🤭</p>
-        </div>
+        {% for blog in blogs %}
+            <div class="blog-box">
+                <h3>{{ blog["title"] }}</h3>
+                <h4>{{ blog["subtitle"] }}</h4>
+                <p>{{ blog["body"] }}</p>
+            </div>
+        {% endfor %}
     </main>
 
     <footer>
