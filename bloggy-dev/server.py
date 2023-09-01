@@ -3,19 +3,18 @@ import requests
 
 app = Flask(__name__)
 
-agify = "https://api.agify.io?name="
-genderfy = "https://api.genderize.io?name="
+fake_blogs = "https://api.npoint.io/c790b4d5cab58020d391"
 
-def get_data(url, user):
-    response = requests.get(f"{url}{user}")
+
+def get_data(url):
+    response = requests.get(url)
     response.raise_for_status()
     data = response.json()
     return data
 
-@app.route("/<name>")
-def home(name):
-    age = get_data(url=agify, user=name)["age"]
-    gender = get_data(url=genderfy, user=name)["gender"]
-    return render_template("index.html", age=age, gender=gender, user=name)
+@app.route("/")
+def home():
+    all_blog = get_data(fake_blogs)
+    return render_template("index.html", blogs=all_blog)
 
 
