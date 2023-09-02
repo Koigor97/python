@@ -31,12 +31,10 @@ class SearchInfo:
         except FileNotFoundError:
             if_file_not_found()
         else:
-            info = {key:value for (key, value) in content.items() if key == self.__get_search_entry()}
-            print(len(info))
-            if len(info) > 0:
+            if self.__get_search_entry() in content:
                 messagebox.showinfo(title=self.__get_search_entry().title(),
-                          message=f"Username/Email: {info[self.__get_search_entry()].user_login}\n"
-                                  f"Password: {info[self.__get_search_entry()].user_passwd}")
+                          message=f"Username/Email: {content[self.__get_search_entry()].user_login}\n"
+                                  f"Password: {content[self.__get_search_entry()].user_passwd}")
                 clear_entry_field = True
             else:
                 if_entry_not_found(website=self.__get_search_entry().title())
